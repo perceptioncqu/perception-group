@@ -47,11 +47,11 @@ meaningful together!
 {% endcapture %}
 
 {% capture col2 %}
-Join us!
+
 {% endcapture %}
 
 {% capture col3 %}
-Advanced equipment, excellent team!
+Advanced equipment, excellent team! Join us!
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 col3=col3 %}

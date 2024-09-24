@@ -14,7 +14,7 @@ We can provide excellent conditions to help you realize your pursuit.
 {%
   include button.html
   type="email"
-  text="email"
+  text="Email"
   link="wangg@cqu.edu.cn"
 %}
 {%
@@ -30,7 +30,7 @@ We can provide excellent conditions to help you realize your pursuit.
 
 {%
   include figure.html
-  image="images/photo.jpg"
+  image="images/cme.png"
   caption="Lorem ipsum"
 %}
 
@@ -40,7 +40,7 @@ We can provide excellent conditions to help you realize your pursuit.
 
 {%
   include figure.html
-  image="images/photo.jpg"
+  image="images/cqu.png"
   caption="Lorem ipsum"
 %}
 

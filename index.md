@@ -26,7 +26,7 @@ Some journals and conferences published by our group in different directions in 
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/research.jpg"
   link="research"
   title="Our Research"
   text=text
@@ -34,7 +34,7 @@ Some journals and conferences published by our group in different directions in 
 
 {% capture text %}
 
-Some of the projects our group has participated in can be made public, in units of time.
+Some of the projects our group has participated in can be made public, in units of year.
 
 {%
   include button.html
@@ -49,7 +49,7 @@ Some of the projects our group has participated in can be made public, in units 
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/robot manu.png"
   link="projects"
   title="Our Projects"
   flip=true
@@ -74,7 +74,7 @@ Our group currently has more than 20 members, including PhDs and masters.
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/member.jpg"
   link="team"
   title="Our Team"
   text=text

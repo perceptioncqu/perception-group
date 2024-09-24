@@ -1,6 +1,6 @@
 # site properties and page defaults
-title: "The Perception Group belongs to the Intelligent Unmanned Team of the School of Mechanical and Vehicle Engineering of Chongqing University, and is committed to the basic application and algorithm research of field robots: passability analysis, Simultaneous Localization and Mapping (SLAM), etc. Our research direction also includes robot manufacturing."
-subtitle: 
+title: "Perception Group, Team Leader: [Dr.Wang](https://slmt.cqu.edu.cn/info/10710/88707.htm)"
+subtitle: "The Perception Group belongs to the Intelligent Unmanned Team of the School of Mechanical and Vehicle Engineering of Chongqing University, and is committed to the basic application and algorithm research of field robots: **passability analysis, Simultaneous Localization and Mapping (SLAM)**, etc. Our research direction also includes **robot manufacturing**."
 description: 
 header: images/background.jpg
 footer: images/background.jpg

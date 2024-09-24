@@ -1,1 +1,1 @@
-Sitemap: https://perceptioncqu.github.io/perception-lab/sitemap.xml
+Sitemap: https://perceptioncqu.github.io/perception-group/sitemap.xml

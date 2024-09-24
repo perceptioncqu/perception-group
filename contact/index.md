@@ -26,27 +26,18 @@ We can provide excellent conditions to help you realize your pursuit.
 
 {% include section.html %}
 
-{% capture col1 %}
-
-{%
-  include figure.html
-  image="images/cme.png"
-  caption="Lorem ipsum"
-%}
-
-{% endcapture %}
 
 {% capture col2 %}
 
 {%
   include figure.html
   image="images/cqu.png"
-  caption="Lorem ipsum"
+  caption=""
 %}
 
 {% endcapture %}
 
-{% include cols.html col1=col1 col2=col2 %}
+{% include cols.html col2=col2 %}
 
 {% include section.html dark=true %}
 

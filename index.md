@@ -1,7 +1,7 @@
 ---
 ---
 
-# perceptioncquDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+# The Perception Group belongs to the Intelligent Unmanned Team of the School of Mechanical and Vehicle Engineering of Chongqing University, and is committed to the basic application and algorithm research of field robots: passability analysis, Simultaneous Localization and Mapping (SLAM), etc. Our research direction also includes robot manufacturing.
 
 
 

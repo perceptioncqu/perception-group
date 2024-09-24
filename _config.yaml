@@ -1,7 +1,7 @@
 # site properties and page defaults
-title: "Perception Group, Team Leader: Dr. Gang Wang"
-subtitle: "The Perception Group belongs to the Intelligent Unmanned Team of the School of Mechanical and Vehicle Engineering of Chongqing University, and is committed to the basic application and algorithm research of field robots: passability analysis, Simultaneous Localization and Mapping (SLAM), etc. Our research direction also includes robot manufacturing."
-description: 
+title: "Perception Group"
+subtitle: "Team Leader: Dr. Gang Wang"
+description: "The Perception Group belongs to the Intelligent Unmanned Team of the School of Mechanical and Vehicle Engineering of Chongqing University, and is committed to the basic application and algorithm research of field robots: passability analysis, Simultaneous Localization and Mapping (SLAM), etc. Our research direction also includes robot manufacturing."
 header: images/537e84eee9e84fddc1f6be0ac7777c0.jpg
 footer: images/background.jpg
 proofer: false

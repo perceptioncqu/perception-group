@@ -1,7 +1,7 @@
 - id: doi:10.1109/TRO.2020.3043688
   type: paper
   description:  We proposed a novel approach for simultaneously solving the unknown matrices.
-  image: https://github.com/perceptioncqu/perception-group/blob/main/images/tro_21.png
+  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
   buttons:
     - type: source
       text: Manuscript Source

@@ -1,23 +1,33 @@
-- id: doi:10.1371/journal.pcbi.1007128
+- id: doi:10.1109/TRO.2020.3043688
   type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+  description:  We proposed a novel approach for simultaneously solving the unknown matrices.
+  image: https://github.com/perceptioncqu/perception-group/blob/main/images/tro_21.png
   buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
     - type: source
       text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
+      link: https://ieeexplore.ieee.org/document/9319563     
   tags:
-    - open science
-    - collaboration
-  repo: greenelab/meta-review
+    - calibration and identification
+    - dual arm manipulation
+    - multirobot systems
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+- id: doi:10.1109/TMECH.2021.3131309
+  image: https://github.com/perceptioncqu/perception-group/blob/main/images/tmech_2022.png
 
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+- id: 10.1109/TRO.2021.3108506
+  type: paper
+  description:  We proposed a novel method that plan and optimize a robotic machining path that meets the requirements of smoothness, dexterity, and stiffness based on the point cloud from onsite measurement.
+  image: https://github.com/perceptioncqu/perception-group/blob/main/images/tro_23.png
+  buttons:
+    - type: source
+      text: Manuscript Source
+      link: https://ieeexplore.ieee.org/document/9642395   
+  tags:
+    - Intelligent and flexible manufacturing
+    - motion and path planning
+    - optimization and optimal control
+    - robot machining system
+
+
+
+

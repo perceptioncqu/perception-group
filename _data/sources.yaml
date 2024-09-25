@@ -12,7 +12,7 @@
     - multirobot systems
 
 - id: doi:10.1109/TMECH.2021.3131309
-  image: https://github.com/perceptioncqu/perception-group/blob/main/images/tmech_2022.png
+  image: https://raw.githubusercontent.com/perceptioncqu/perception-group/main/images/tmech_2022.png
 
 - id: doi:10.1109/TRO.2021.3108506
   type: paper
@@ -46,7 +46,7 @@
 - id: doi:10.1016/j.cja.2018.09.005
   image: https://raw.githubusercontent.com/perceptioncqu/perception-group/main/images/wang_2017.png
 
-- id: doi:10.1007/s00170-017-0358-2
+- id: doi:10.1007/s00170-017-0358-2 
   image: https://raw.githubusercontent.com/perceptioncqu/perception-group/main/images/wang_2017_ijam.png
 
 - id: doi:10.1109/ICRA57147.2024.10610312

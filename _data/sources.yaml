@@ -1,7 +1,7 @@
 - id: doi:10.1109/TRO.2020.3043688
   type: paper
   description:  We proposed a novel approach for simultaneously solving the unknown matrices.
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  image: https://raw.githubusercontent.com/perceptioncqu/perception-group/main/images/tro_21.png
   buttons:
     - type: source
       text: Manuscript Source
@@ -17,7 +17,7 @@
 - id: doi:10.1109/TRO.2021.3108506
   type: paper
   description:  We proposed a novel method that plan and optimize a robotic machining path that meets the requirements of smoothness, dexterity, and stiffness based on the point cloud from onsite measurement.
-  image: https://github.com/perceptioncqu/perception-group/blob/main/images/tro_23.png
+  image: https://raw.githubusercontent.com/perceptioncqu/perception-group/main/images/tro_23.png
   buttons:
     - type: source
       text: Manuscript Source
@@ -29,14 +29,14 @@
     - robot machining system
 
 - id: doi:10.1109/TII.2023.3240747
-  image: https://github.com/perceptioncqu/perception-group/blob/main/images/tii_2023.png
+  image: https://raw.githubusercontent.com/perceptioncqu/perception-group/main/images/tii_2023.png
 
 - id: doi:10.1109/TIM.2024.3370160
-  image: https://github.com/perceptioncqu/perception-group/blob/main/images/tim_wang.png
+  image: https://raw.githubusercontent.com/perceptioncqu/perception-group/main/images/tim_wang.png
 
 - id: doi:10.1109/TIM.2024.3412212
-  image: https://github.com/perceptioncqu/perception-group/blob/main/images/tim_huang.png
+  image: https://raw.githubusercontent.com/perceptioncqu/perception-group/main/images/tim_huang.png
 
 - id: doi:10.1109/JSEN.2023.3306371
-  image: https://github.com/perceptioncqu/perception-group/blob/main/images/sensor_j_luo.png
+  image: https://raw.githubusercontent.com/perceptioncqu/perception-group/main/images/sensor_j_luo.png
   

@@ -14,7 +14,7 @@
 - id: doi:10.1109/TMECH.2021.3131309
   image: https://github.com/perceptioncqu/perception-group/blob/main/images/tmech_2022.png
 
-- id: 10.1109/TRO.2021.3108506
+- id: doi:10.1109/TRO.2021.3108506
   type: paper
   description:  We proposed a novel method that plan and optimize a robotic machining path that meets the requirements of smoothness, dexterity, and stiffness based on the point cloud from onsite measurement.
   image: https://github.com/perceptioncqu/perception-group/blob/main/images/tro_23.png

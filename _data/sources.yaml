@@ -40,3 +40,17 @@
 - id: doi:10.1109/JSEN.2023.3306371
   image: https://raw.githubusercontent.com/perceptioncqu/perception-group/main/images/sensor_j_luo.png
   
+- id: doi:10.1109/TMECH.2017.2665652
+  image: https://raw.githubusercontent.com/perceptioncqu/perception-group/main/images/tmech_2017.png
+
+- id: doi:10.1016/j.cja.2018.09.005
+  image: https://raw.githubusercontent.com/perceptioncqu/perception-group/main/images/wang_2017.png
+
+- id: doi:10.1007/s00170-017-0358-2
+  image: https://raw.githubusercontent.com/perceptioncqu/perception-group/main/images/wang_2017_ijam.png
+
+- id: doi:10.1109/ICRA57147.2024.10610312
+  image: https://raw.githubusercontent.com/perceptioncqu/perception-group/main/images/ICRA_huang.png
+
+- id: doi:10.1109/ICRA57147.2024.10611053
+  image: https://raw.githubusercontent.com/perceptioncqu/perception-group/main/images/ICRA_wang.png

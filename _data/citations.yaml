@@ -143,3 +143,81 @@
   image: https://raw.githubusercontent.com/perceptioncqu/perception-group/main/images/sensor_j_luo.png
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1109/TMECH.2017.2665652
+  title: Interference-Free Inspection Path Generation for Impeller Blades Using an
+    On-Machine Probe
+  authors:
+  - Wen-long Li
+  - Gang Wang
+  - Gang Zhang
+  - Qi-dong Li
+  - Zhou-ping Yin
+  publisher: IEEE/ASME Transactions on Mechatronics
+  date: '2017-06-01'
+  link: https://doi.org/gbj8jn
+  image: https://raw.githubusercontent.com/perceptioncqu/perception-group/main/images/tmech_2017.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.cja.2018.09.005
+  title: Multi-parameter optimization of machining impeller surface based on the on-machine
+    measuring technique
+  authors:
+  - Gang WANG
+  - Wen-long LI
+  - Fan RAO
+  - Zheng-rong HE
+  - Zhou-ping YIN
+  publisher: Chinese Journal of Aeronautics
+  date: '2019-08-01'
+  link: https://doi.org/gjpzk9
+  image: https://raw.githubusercontent.com/perceptioncqu/perception-group/main/images/wang_2017.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s00170-017-0358-2
+  title: Improving the machining accuracy of thin-walled parts by online measuring
+    and allowance compensation
+  authors:
+  - Gang Wang
+  - Wen-long Li
+  - Gang Tong
+  - Chang-tao Pang
+  publisher: The International Journal of Advanced Manufacturing Technology
+  date: '2017-04-10'
+  link: https://doi.org/gbt98d
+  image: https://raw.githubusercontent.com/perceptioncqu/perception-group/main/images/wang_2017_ijam.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ICRA57147.2024.10610312
+  title: A Framework for Real-time Generation of Multi-directional Traversability
+    Maps in Unstructured Environments
+  authors:
+  - Tao Huang
+  - Gang Wang
+  - Hongliang Liu
+  - Jun Luo
+  - Lang Wu
+  - Tao Zhu
+  - Huayan Pu
+  - Jun Luo
+  - Shuxin Wang
+  publisher: 2024 IEEE International Conference on Robotics and Automation (ICRA)
+  date: '2024-05-13'
+  link: https://doi.org/g5dcg6
+  image: https://raw.githubusercontent.com/perceptioncqu/perception-group/main/images/ICRA_huang.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ICRA57147.2024.10611053
+  title: Increasing the Absolute Position Accuracy of Industrial Robots by Means of
+    a Deep Continual Evidential Regression Model <sup>*</sup>
+  authors:
+  - Eckart Uhlmann
+  - Mitchel Polte
+  - Julian Blumberg
+  - Sheng Yin
+  - Gang Wang
+  publisher: 2024 IEEE International Conference on Robotics and Automation (ICRA)
+  date: '2024-05-13'
+  link: https://doi.org/g5dcg9
+  image: https://raw.githubusercontent.com/perceptioncqu/perception-group/main/images/ICRA_wang.png
+  plugin: sources.py
+  file: sources.yaml

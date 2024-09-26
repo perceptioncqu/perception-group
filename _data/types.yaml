@@ -14,9 +14,9 @@ phd:
   icon: fa-solid fa-graduation-cap
   description: PhD Student
 
-undergrad:
+postgrad:
   icon: fa-solid fa-user-graduate
-  description: Undergraduate Student
+  description: Postgraduate Student
 
 programmer:
   icon: fa-solid fa-code

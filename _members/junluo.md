@@ -6,6 +6,7 @@ affiliation: ChongQing University
 group: alum
 links:
   home-page: https://neal0529.github.io/
+  email: luojun@stu.cqu.edu.cn
 ---
 
 His research interests include Visual SLAM, multi-sensor fusion SLAM.

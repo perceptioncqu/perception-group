@@ -3,6 +3,7 @@ name: Jun Luo
 image: images/members/Jun_luo.png
 role: postgrad
 affiliation: ChongQing University 
+description: Admission in 2022 
 group: alum
 links:
   home-page: https://neal0529.github.io/

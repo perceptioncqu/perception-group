@@ -3,6 +3,7 @@ name: Qixing Zhao
 image: images/members/Qixing_Zhao.jpg
 role: postgrad
 affiliation: ChongQing University 
+description: Admission in 2022 
 aliases:
   - Russell
 group: alum

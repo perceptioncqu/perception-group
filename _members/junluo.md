@@ -1,1 +1,11 @@
+---
+name: Jun Luo
+image: images/members/Jun_luo.png
+role: postgrad
+affiliation: ChongQing University 
+group: alum
+links:
+  home-page: https://neal0529.github.io/
+---
 
+His research interests include Visual SLAM, multi-sensor fusion SLAM.

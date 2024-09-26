@@ -1,6 +1,6 @@
 ---
 name: Haijun Zhang
-image: images/members/Haijun_zhang.jpg
+image: images/members/Haijun_Zhang.jpg
 description: Admission in 2022
 affiliation: ChongQing University 
 role: postgrad

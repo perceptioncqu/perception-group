@@ -10,3 +10,5 @@ links:
 ---
 
 My research direction is intelligent manufacturing. Research interests: perceptual planning of industrial robots, multi-sensor fusion, point cloud image processing.
+
+I'm studying for a master's degree.

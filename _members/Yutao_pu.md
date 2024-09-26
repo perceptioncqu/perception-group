@@ -10,3 +10,5 @@ links:
 ---
 
 I graduated from Chongqing University as an undergraduate and then went on to pursue my master's degree in Chongqing University. My research direction is infrared small target segmentation and tracking.
+
+I'm studying for a master's degree.

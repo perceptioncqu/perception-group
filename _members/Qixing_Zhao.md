@@ -11,4 +11,6 @@ links:
   email: russell214210@gmail.com
 ---
 
-I graduated from Chongqing University as an undergraduate and then went on to pursue my master's degree in Chongqing University. My research direction is laser SLAM and multi-sensor fusion SLAM.
+I graduated from Chongqing University as an undergraduate and then went on to pursue my master's degree in Chongqing University. My research direction is laser SLAM and multi-sensor fusion SLAM. 
+
+I'm studying for a master's degree.

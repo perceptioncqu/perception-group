@@ -5,7 +5,7 @@ nav:
   tooltip: Musings and miscellany
 ---
 
-# {% include icon.html icon="fa-solid fa-feather-pointed" %}Blog
+# {% include icon.html icon="fa-solid fa-feather-pointed" %}News
 
 Here are some of the latest news of our group, you can find all the news of our group here!
 

@@ -2,6 +2,7 @@
 name: Haijun Zhang
 image: images/members/Haijun_zhang.jpg
 description: Admission in 2022
+affiliation: ChongQing University 
 role: postgrad
 links:
   email: zhanghaijuncqu@163.com

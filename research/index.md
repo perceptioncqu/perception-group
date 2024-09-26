@@ -13,7 +13,9 @@ Here are all the research developments of our group, listed in chronological ord
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="Simultaneous Calibration of Multicoordinates for a Dual-Robot System by Solving the AXB = YCZ Problem" style="rich" %}
+
+{% include citation.html lookup="Trajectory Planning and Optimization for Robotic Machining Based On Measured Point Cloud" style="rich" %}
 
 {% include section.html %}
 

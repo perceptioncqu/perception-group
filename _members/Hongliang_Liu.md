@@ -9,4 +9,6 @@ links:
   email: 20200701049g@cqu.edu.cn
 ---
 
-My research direction is robot systems and robot perception..
+My research direction is robot systems and robot perception.
+
+I'm studying for a doctorate.

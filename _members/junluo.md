@@ -11,3 +11,5 @@ links:
 ---
 
 His research interests include Visual SLAM, multi-sensor fusion SLAM.
+
+I'm studying for a master's degree.

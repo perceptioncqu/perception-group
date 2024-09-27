@@ -1,14 +1,10 @@
 ---
-name: Jane Smith
+name: Gang Wang
 image: images/photo.jpg
 role: pi
-affiliation: University of Colorado
-aliases:
-  - J. Smith
-  - J Smith
+affiliation: ChongQing University 
 links:
-  home-page: https://janesmith.com
-  orcid: 0000-0001-8713-9213
+  home-page: https://slmt.cqu.edu.cn/info/10710/88707.htm
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

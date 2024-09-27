@@ -1,6 +1,6 @@
 ---
 name: Tianhang Zhou
-image: images/members/Tianhang_Zhou.jpg
+image: images/members/Tianhang_Zhou.png
 role: postgrad
 affiliation: ChongQing University 
 description: Admission in 2024 

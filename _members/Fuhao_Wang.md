@@ -9,7 +9,6 @@ links:
   email: 202207131371@stu.cqu.edu.cn
 ---
 
-My research field is intelligent manufacturing, and my research direction is industrial robot processing path planning and attitude optimization. I am studying for my master's degree in 2025.
+My research area is intelligent manufacturing. The research direction is machining path planning and machining position optimization for industrial robots.I am studying for my master's degree in 2025.
 Keep your face always toward the sunshine and shadows will fall behind you.
-
 

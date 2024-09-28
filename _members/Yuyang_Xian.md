@@ -11,4 +11,5 @@ links:
 
 My research direction is multi-robot collaborative exploration based on cluster car. 
 
-I'm studying for a master's degree.
+I'm going to study for a master's degree in 2025.
+

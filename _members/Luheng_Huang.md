@@ -11,4 +11,4 @@ links:
 
 My current research direction is autonomous navigation on complex terrain.
 
-I'm going to study for a master's degree in 2025.
+I'm studying for a master's degree.

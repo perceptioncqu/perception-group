@@ -206,21 +206,6 @@
   image: https://raw.githubusercontent.com/perceptioncqu/perception-group/main/images/ICRA_huang.png
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1109/ICRA57147.2024.10611053
-  title: Increasing the Absolute Position Accuracy of Industrial Robots by Means of
-    a Deep Continual Evidential Regression Model <sup>*</sup>
-  authors:
-  - Eckart Uhlmann
-  - Mitchel Polte
-  - Julian Blumberg
-  - Sheng Yin
-  - Gang Wang
-  publisher: 2024 IEEE International Conference on Robotics and Automation (ICRA)
-  date: '2024-05-13'
-  link: https://doi.org/g5dcg9
-  image: https://raw.githubusercontent.com/perceptioncqu/perception-group/main/images/ICRA_wang.png
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1088/0957-0233/27/9/095003
   title: A novel path generation method of onsite 5-axis surface inspection using
     the dual-cubic NURBS representation
@@ -234,87 +219,5 @@
   date: '2016-07-19'
   link: https://doi.org/gq53mr
   image: https://raw.githubusercontent.com/perceptioncqu/perception-group/main/images/mst_li.png
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1088/1361-6501/ab9840
-  title: Calibration of the laser displacement sensor and integration of on-site scanned
-    points
-  authors:
-  - Meng Kou
-  - Gang Wang
-  - Cheng Jiang
-  - Wen-long Li
-  - Jin-cheng Mao
-  publisher: Measurement Science and Technology
-  date: '2020-10-09'
-  link: https://doi.org/g5dhqc
-  image: https://raw.githubusercontent.com/perceptioncqu/perception-group/main/images/mst_kou.png
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.asoc.2023.110228
-  title: Dexterous workspace optimization for a six degree-of-freedom parallel manipulator
-    based on surrogate-assisted constrained differential evolution
-  authors:
-  - Huayan Pu
-  - Hao Cheng
-  - Gang Wang
-  - Jie Ma
-  - Jinglei Zhao
-  - Ruqing Bai
-  - Jun Luo
-  - Jin Yi
-  publisher: Applied Soft Computing
-  date: '2023-05-01'
-  link: https://doi.org/gtkdwr
-  image: https://raw.githubusercontent.com/perceptioncqu/perception-group/main/images/asc_2023.png
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1088/1361-6501/ac2a67
-  title: A novel position and orientation correction method for specific robot poses
-    by measuring an array of standard balls
-  authors:
-  - Ya-ming Tian
-  - Jie Xiong
-  - Gang Wang
-  - Cheng Jiang
-  - Sheng Zhang
-  - Wen-long Li
-  publisher: Measurement Science and Technology
-  date: '2021-10-08'
-  link: https://doi.org/g5dhqh
-  image: https://raw.githubusercontent.com/perceptioncqu/perception-group/main/images/mst_y.png
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1088/1361-6501/ac39d0
-  title: A novel cooling hole inspection method for turbine blade using 3D reconstruction
-    of stereo vision
-  authors:
-  - Yu-qi Cheng
-  - Wen-long Li
-  - Cheng Jiang
-  - Gang Wang
-  - Wei Xu
-  - Qing-yu Peng
-  publisher: Measurement Science and Technology
-  date: '2021-11-29'
-  link: https://doi.org/g5dhqm
-  image: https://raw.githubusercontent.com/perceptioncqu/perception-group/main/images/mst_y_cheng.png
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1109/CRC51253.2020.9253489
-  title: Vision Location Method for Key Features of the Metallurgical Machine with
-    a Robot 3D Measurement System
-  authors:
-  - Xue-zheng Chu
-  - Ya-ming Tian
-  - Gang Wang
-  - Ying-mao Chen
-  - Wen-long Li
-  - Jie Xiong
-  publisher: 2020 5th International Conference on Control, Robotics and Cybernetics
-    (CRC)
-  date: '2020-10-16'
-  link: https://doi.org/g5dhqs
-  image: https://raw.githubusercontent.com/perceptioncqu/perception-group/main/images/crc_2020.png
   plugin: sources.py
   file: sources.yaml

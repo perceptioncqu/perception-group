@@ -1,5 +1,5 @@
 ---
-title: excited news
+title: Excited news
 image: images/news/new.png
 author: Jun Luo
 tags: normal

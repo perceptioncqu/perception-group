@@ -22,9 +22,9 @@ We look forward to your joining us to do meaningful things together!
 
 {% capture content %}
 
-{% include figure.html image="images/members/Gang_Wang.png" %} 
-{% include figure.html image="images/members/Hongliang_Liu.jpg" %} 
-
+{% include figure.html image="images/ijrr.png" %} 
+{% include figure.html image="images/sr.png" %} 
+{% include figure.html image="images/tro.png" %} 
 
 {% endcapture %}
 

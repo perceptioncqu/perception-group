@@ -7,10 +7,9 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Here we showcase some of our ongoing projects and some public materials, such as public datasets.
 
-{% include tags.html tags="publication, resource, website" %}
+{% include tags.html tags="publication, resource, dataset" %}
 
 {% include search-info.html %}
 

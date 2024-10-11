@@ -15,8 +15,7 @@
   date: '2021-08-01'
   link: https://doi.org/gnhrcx
   type: paper
-  description: We proposed a novel approach for simultaneously solving the unknown
-    matrices.
+  description: We proposed a method for simultaneously solving the unknown matrices.
   image: https://raw.githubusercontent.com/perceptioncqu/perception-group/main/images/tro_21.png
   buttons:
   - type: source

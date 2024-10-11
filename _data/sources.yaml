@@ -58,11 +58,11 @@
 - id: doi:10.1109/ICRA57147.2024.10611053
   image: https://raw.githubusercontent.com/perceptioncqu/perception-group/main/images/ICRA_wang.png
 
-  - id: doi:10.1016/j.suscom.2023.100923
-  image: https://raw.githubusercontent.com/perceptioncqu/perception-group/main/images/luo_2022.png
+- id: doi:10.1016/j.suscom.2023.100923
+image: https://raw.githubusercontent.com/perceptioncqu/perception-group/main/images/luo_2022.png
 
-  - id: 10.1109/TMECH.2024.3446528
-  image: https://raw.githubusercontent.com/perceptioncqu/perception-group/main/images/tmech_2024.png
+- id: 10.1109/TMECH.2024.3446528
+image: https://raw.githubusercontent.com/perceptioncqu/perception-group/main/images/tmech_2024.png
 
 
 

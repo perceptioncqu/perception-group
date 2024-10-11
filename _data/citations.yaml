@@ -221,3 +221,50 @@
   image: https://raw.githubusercontent.com/perceptioncqu/perception-group/main/images/mst_li.png
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1109/ICRA57147.2024.10611053
+  title: Increasing the Absolute Position Accuracy of Industrial Robots by Means of
+    a Deep Continual Evidential Regression Model <sup>*</sup>
+  authors:
+  - Eckart Uhlmann
+  - Mitchel Polte
+  - Julian Blumberg
+  - Sheng Yin
+  - Gang Wang
+  publisher: 2024 IEEE International Conference on Robotics and Automation (ICRA)
+  date: '2024-05-13'
+  link: https://doi.org/g5dcg9
+  image: https://raw.githubusercontent.com/perceptioncqu/perception-group/main/images/ICRA_wang.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.suscom.2023.100923
+  title: Strip running deviation monitoring and feedback real-time in smart factories
+    based on improved YOLOv5
+  authors:
+  - Jun Luo
+  - Gang Wang
+  - Mingliang Zhou
+  - Huayan Pu
+  - Jun Luo
+  publisher: 'Sustainable Computing: Informatics and Systems'
+  date: '2023-12-01'
+  link: https://doi.org/g74nzh
+  image: https://raw.githubusercontent.com/perceptioncqu/perception-group/main/images/luo_2022.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TMECH.2024.3446528
+  title: Error Identification and Compensation of a Dual-Robot Measuring and Machining
+    System With an Integrated Visual Sensor
+  authors:
+  - Gang Wang
+  - Hua-yan Pu
+  - Qing-yu Peng
+  - Wen-long Li
+  - Deng-yu Xiao
+  - Jun Luo
+  - Han Ding
+  publisher: IEEE/ASME Transactions on Mechatronics
+  date: '2024-01-01'
+  link: https://doi.org/g74nzm
+  image: https://raw.githubusercontent.com/perceptioncqu/perception-group/main/images/tmech_2024.png
+  plugin: sources.py
+  file: sources.yaml

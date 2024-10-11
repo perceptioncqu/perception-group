@@ -1,5 +1,5 @@
 ---
-title: National Scholarship for Graduate Students
+title: National Scholarship for Postgraduate Students
 image: images/news/2024-10-11.jfif
 author: Jun Luo
 tags: scholarship

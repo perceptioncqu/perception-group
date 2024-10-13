@@ -16,14 +16,6 @@
   tags:
     - Presentation Video
 
-- title: IROS2024：BE-SLAM: BEV-Enhanced Dynamic Semantic SLAM with Static Object Reconstruction
-  subtitle: Presentation Video
-  group: featured
-  image: images/project/poster.jpg
-  link: https://raw.githubusercontent.com/perceptioncqu/perception-group/main/images/video/IROS_1605.mp4
-  description: This is a presentation video about our work at 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2024)：BE-SLAM: BEV-Enhanced Dynamic Semantic SLAM with Static Object Reconstruction.
-  tags:
-    - Presentation Video
 
 - title: Coming soon
   subtitle: 

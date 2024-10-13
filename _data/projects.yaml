@@ -7,6 +7,17 @@
   tags:
     - dataset
 
+- title: ICRA2024：A Framework for Real-time Generation of Multi-directional Traversability Maps in Unstructured Environments
+  subtitle: Presentation Video
+  group: featured
+  image: images/project/icra.png
+  link: https://www.bilibili.com/video/BV1EC411G7oY/?share_source=copy_web&vd_source=9e0d75e1291c4746cf32f2a82d2e0b4a
+  description: This is a presentation video about our work at 2024 IEEE International Conference on Robotics and Automation：A Framework for Real-time Generation of Multi-directional Traversability Maps in Unstructured Environments.
+  tags:
+    - Presentation Video
+
+  
+
 
 - title: Coming soon
   subtitle: 
